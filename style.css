@@ -49,3 +49,7 @@ td {
     background: rgb(220, 220, 220);
     color: #343a40;
 }
+
+.table-box {
+    overflow-x: auto;
+}
